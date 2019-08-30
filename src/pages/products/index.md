@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
+title: Our Testing
+image: /img/flavor_wheel.jpg
 heading: Great coffee with a conscience testing
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
